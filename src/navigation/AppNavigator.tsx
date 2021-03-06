@@ -154,6 +154,7 @@ const StudentProfileNavigator = (props: any) => {
             />
             <Stack.Screen
                 name='Create Post'
+            
                 component={CreatePostScreen}
                 options={{
                     headerRight: () => {

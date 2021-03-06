@@ -12,6 +12,7 @@ const DepartmentQuestionsScreen = (props: any) => {
                 <QuestionFooter/>
            </PostItem>
            <PostItem>
+                
                 <QuestionFooter/>
            </PostItem>
            <PostItem>

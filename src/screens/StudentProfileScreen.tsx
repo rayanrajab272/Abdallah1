@@ -12,6 +12,7 @@ const StudentProfileScreen = (props:any) => {
             <Profile onCreatePost={()=>props.navigation.navigate('Create Post')}/>
             <ProfileTabNavigaror/>
         </ScrollView>
+
     )
 }
 

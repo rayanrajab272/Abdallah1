@@ -52,6 +52,7 @@ since 2020
                     title='Edit profile'
                     titleStyle={{ color:'black', fontSize:15, alignSelf:'center' }}
                    // onPress={props.onCreatePost}
+                    onPress={() => this.props.navigation.navigate('Profile')}  
                 />
 
             </View>

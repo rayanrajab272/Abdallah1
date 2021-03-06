@@ -17,7 +17,14 @@ enum Colors {
     pur = '#95628A',
     bb = '#8DB2D8',
     bb2 = '#A7BDD5', //حلو
-    bb3 = '#BCCFE3'
+    bb3 = '#BCCFE3',
+    bb4 = '#495f7e',
+    bb5 = '#7896c0',
+    pur2 = '#c386cf',
+    pur3 = '#b88ac1',
+    pur4 = '#d797e4',
+    yell2 = '#c9f738',
+    
 }
 
 export default Colors;
